@@ -2,7 +2,7 @@
 
 > Pokémon TCG analytics dashboard covering 13 tournaments, 1,015 unique players, 1,788 tournament entries, and 4,380 matches. Uses Limitless data to analyze deck popularity, win rates, and head-to-head performance.
 
-[Visitar la web de Crown of Spain](https://crown-of-spain.caartagena.chatgpt.site)
+[Visitar la web de Crown of Spain](https://crownofspain.com)
 
 Crown of Spain convierte las clasificaciones y los cruces de un circuito competitivo de Pokémon TCG en un panel de análisis. El panel permite seguir la evolución de los tipos de mazo, comparar su rendimiento por rival y consultar resultados por jornada, jugador y país.
 
@@ -21,7 +21,7 @@ Dragapult fue el arquetipo más usado en la jornada 11, con **20 de 175 particip
 
 La media de la jornada oculta diferencias entre rivales. Dragapult ganó **5 de 5** cruces frente a Dragapult Blaziken y **2 de 7** frente a Slowking. En el conjunto de las 11 jornadas ganó **30 de 54** y **18 de 53**, respectivamente. El 100 % de la jornada 11 sale de solo cinco cruces. Para valorar ese resultado conviene mostrar el tamaño de la muestra junto al porcentaje y consultar un período más amplio. Las diferencias son descriptivas y pueden reflejar cambios en los rivales o en quién usa cada mazo.
 
-[Ver la jornada 11 en Crown of Spain](https://crown-of-spain.caartagena.chatgpt.site/#jornadas/6ac51e2b245696afb351798d). Abre la pestaña **Metajuego** y selecciona **Dragapult** para consultar sus cruces.
+[Ver la jornada 11 en Crown of Spain](https://crownofspain.com/#jornadas/6ac51e2b245696afb351798d). Abre la pestaña **Metajuego** y selecciona **Dragapult** para consultar sus cruces.
 
 ## Del dato de origen al indicador
 
